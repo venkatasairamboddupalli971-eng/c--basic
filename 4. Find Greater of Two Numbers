@@ -1,0 +1,19 @@
+ #include<stdio.h>
+ int main(){
+    int a=20,b=40;
+    scanf("%d",&a,&b);
+    if (a>b){ 
+    printf("ais greater ");
+    }
+    else if(b>a)  {
+        printf("b is greater");
+    }
+else {
+    printf("invalide");
+}
+    
+    
+    
+     return 0;
+ }
+
