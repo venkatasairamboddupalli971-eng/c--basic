@@ -1,0 +1,23 @@
+ #include<stdio.h>
+ int main(){
+    int a;
+    scanf("%d",&a);
+    if (a>0){ 
+    printf("it is postive");
+    }
+    else if (a=0){
+        printf("it is zero");
+
+
+    }
+    else
+    {
+        printf("it is negetive");
+    }
+
+    
+    
+    
+     return 0;
+ }
+
